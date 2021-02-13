@@ -7,3 +7,5 @@ pod install<br />
 cd ..<br />
 For IOS - Yarn run ios<br />
 FOR Android - yarn run android<br />
+
+Android apk link - https://drive.google.com/file/d/1_fdjk68gKGhIysLWjJ0mDOxsjNb_MKXK/view?usp=sharing
